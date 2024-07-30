@@ -1,0 +1,46 @@
+*{
+
+    font-family: "Montserrat", sans-serif;
+}
+header{
+    background-color: #E2BFB3;
+}
+header span{
+    color:#FFFDCB;
+}
+.nav-item a{
+    color:#FFFDCB;
+}
+.nav-item a:hover{
+    color:#FF8E8F;
+}
+/*link de visita*/
+.navitem a:visited{
+    color:#FFFDCB;
+}
+#nav-button{
+    background-color:#FF8E8F;
+}
+.icon-square .bi{
+    
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    font-size: 1.5em;
+        
+    /*border-radius: 50px;*/
+}
+.bi .bi-laptop{
+    margin: 400px;
+}
+.bi .bi-cpu{
+    margin: 400px;
+}
+
+.img-proyecto1{
+    background-image: url('/assets/clon-pinterest.PNG');
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+    
+}
