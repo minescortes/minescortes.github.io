@@ -1,0 +1,68 @@
+*{
+
+    font-family: "Montserrat", sans-serif;
+}
+header{
+    background-color: #E2BFB3;
+}
+header span{
+    color:#FFFDCB;
+}
+.nav-item a{
+    color:#FFFDCB;
+}
+.nav-item a:hover{
+    color:#FF8E8F;
+}
+/*link de visita*/
+.navitem a:visited{
+    color:#FFFDCB;
+}
+#nav-button{
+    background-color:#FF8E8F;
+}
+.icon-habilidades{
+    
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    font-size: 2em;
+        
+    /*border-radius: 50px;*/
+}
+
+
+.img-proyecto1{
+    background-image: url('/assets/clon-pinterest.PNG');
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+    
+}
+
+.container{
+    justify-content: center;
+}
+
+footer{
+    background-color: #E2BFB3;
+}
+
+footer .icon-footer i{
+    color:#FFFDCB;
+    font-size: 1.5em;
+}
+
+
+footer p{
+    color:#FFFDCB;
+    
+}
+footer p a{
+    color:#FFFDCB;
+    
+}
+
+#app{
+    color:#FF8E8F;
+}
