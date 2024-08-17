@@ -4,7 +4,7 @@
 Proyecto creado durante el bootcamp de Tecnolochicas PRO, es adaptable a distintos dispositivos o tamaños de pantalla.
 El proposito de esta página web es mostrar mi portafolio de proyectos como desarrolladora web.
 
-Podrás encontrarlo aquí [Portafolio](https://github.com/minescortes.github.io).
+Podrás encontrarlo aquí [Portafolio](https://portafolioines-ines-cortes-projects.vercel.app/).
 ### Tecnologías
 
 * HTML
